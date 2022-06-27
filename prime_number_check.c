@@ -29,6 +29,6 @@ int main(void){
   {
     printf("%d is a composite number.",num);
   }
-
+  
   return 0;
 }
