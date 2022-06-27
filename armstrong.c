@@ -31,9 +31,9 @@ int length(int num)
 }
 
 int main(void){
-  long long num;
+  int num;
   printf("Enter a positive number to recieve factorial of all numbers till that number: ");
-  scanf("%lld",&num);
+  scanf("%d",&num);
   for(int i=0;i<=num;i++)
   {
     if(armstrong(i,length(i)) == (i+0.0))
