@@ -1,4 +1,4 @@
-// Prime Number Check
+// Printing Prime Numbers from 1 to num where num is entered by the user
 
 #include <stdio.h>
 
